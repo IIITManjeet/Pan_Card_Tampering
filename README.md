@@ -22,7 +22,6 @@ jupyter notebook main.ipynb
 ## Project Structure
 - main.ipynb: The main Jupyter notebook containing the code for PAN card tampering detection.
 * images/: Directory containing sample PAN card images used for testing the tampering detection algorithm.
-+ requirements.txt: File listing the required libraries for the project.
 
 ## Methodology 
 The project uses the following steps to detect tampering in PAN card images:
